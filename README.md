@@ -1,1 +1,1 @@
-# Garage-System
+It is a project which is based on a smart garage system. It includes car parking sytem with proper sensor, fire extinguishing system, garage door opening and closing system etc. This project is contructed by Ardiono IDE and Proteus. 
